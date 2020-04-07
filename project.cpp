@@ -1,3 +1,4 @@
+/*I have just made the getdata function, for checking if it works well*/
 #include <iostream>
 #include <fstream>
 #include<string>
